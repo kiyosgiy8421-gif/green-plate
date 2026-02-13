@@ -4,8 +4,8 @@ import { Button } from "@/components/ui/button";
 import Header from "@/components/Header";
 
 export default function OrderConfirmation() {
-  // මෙතන උඹේ WhatsApp අංකය දාන්න (උදා: 94771234567)
-  const whatsappNumber = "94771234567"; 
+  // 94742791028
+  const whatsappNumber = "94742791028"; 
   const message = "Hi Green Plate! I just placed an order. Please confirm it.";
 
   return (
